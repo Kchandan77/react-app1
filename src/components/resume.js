@@ -14,7 +14,7 @@ class Resume extends Component {
             <div style={{textAlign: 'center'}}>
               <img
                 src={require("./Images/chandanImg2.png")}
-                alt="avatar"
+                alt="ChandanImg"
                 style={{height: '300px'}}
                  />
             </div>

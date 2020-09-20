@@ -10,7 +10,7 @@ class Landing extends Component {
           <Cell col={12}>
             <img
               src={require("./Images/chandan_new.png")}
-              alt="avatar"
+              alt="chandanImg"
               style={{height: '350px'}}
               />
 
