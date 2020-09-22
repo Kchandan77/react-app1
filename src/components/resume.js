@@ -85,8 +85,6 @@ class Resume extends Component {
                     skill="NodeJS"
                     progress={70}
                     />
-                    
-
 
           </Cell>
         </Grid>
